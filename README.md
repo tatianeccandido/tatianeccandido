@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Tatiane Candido 👋
 
-<!--
-**tatianeccandido/tatianeccandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou iniciante na área de tecnologia e estou aprendendo sobre programação, automação e soluções digitais.  
+Meu objetivo é criar projetos que ajudem a agilizar processos e melhorar a vida das pessoas de forma simples e eficiente.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔭 Atualmente estudando **Lógica de Programação** e **Git/GitHub**
+- 🌱 Próximo passo: aprender **HTML, CSS e JavaScript**
+- 🎯 Objetivo: criar uma base sólida de conhecimento para desenvolver meus primeiros projetos
+- 💡 Interesses: tecnologia acessível, inovação e melhoria contínua
+
+---
+
+## 📌 Registro de progresso
+Este espaço será usado para:
+- Guardar minhas anotações de estudos  
+- Documentar aprendizados importantes  
+- Servir como referência para meus futuros projetos  
+
+---
+
+## 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianeccandido)
